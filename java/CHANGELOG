@@ -1,3 +1,7 @@
+v3.141.60
+=========
+* Backported an XXE fix for Firefox driver
+
 v3.141.59
 =========
 
