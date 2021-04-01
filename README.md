@@ -1,4 +1,11 @@
-Selenium [![Travis Status](https://travis-ci.org/SeleniumHQ/selenium.svg?branch=master)](//travis-ci.org/SeleniumHQ/selenium) [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/pg1f99p1aetp9mk9/branch/master?svg=true)](https://ci.appveyor.com/project/SeleniumHQ/selenium/branch/master)
+Atlassian Fork
+========
+NOTE:
+- Requires python 2.7 as the global python environment
+- Follow the "Maven pr se" instructions to get maven artifacts
+- The release process is seemingly broken
+
+Selenium [![Travis Status](https://travis-ci.org/atlassian-forks/selenium.svg?branch=main)](//travis-ci.org/SeleniumHQ/selenium) [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/pg1f99p1aetp9mk9/branch/master?svg=true)](https://ci.appveyor.com/project/SeleniumHQ/selenium/branch/master)
 ========
 [![SeleniumHQ](http://www.seleniumhq.org/images/big-logo.png)](http://www.seleniumhq.org/)
 
